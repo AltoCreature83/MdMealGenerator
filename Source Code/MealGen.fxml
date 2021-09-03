@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="605.0" style="-fx-background-color: #FFC300;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.MealGenController">
+   <children>
+      <AnchorPane layoutX="-1.0" layoutY="-6.0" prefHeight="80.0" prefWidth="606.0" style="-fx-background-color: #7b241c;">
+         <children>
+            <Text fill="#ddd418" layoutX="225.0" layoutY="52.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Generate Meal">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Text>
+         </children></AnchorPane>
+      <Slider fx:id="numberSelect" layoutX="233.0" layoutY="210.0" majorTickUnit="1.0" max="10.0" min="1.0" minorTickCount="0" prefHeight="38.0" prefWidth="150.0" showTickLabels="true" showTickMarks="true" snapToTicks="true" />
+      <Text layoutX="196.0" layoutY="95.0" strokeType="OUTSIDE" strokeWidth="0.0" text="What meals would you like to generate?" />
+      <ChoiceBox fx:id="mealTypeChoiceBox" layoutX="227.0" layoutY="105.0" prefWidth="150.0" />
+      <Text layoutX="183.0" layoutY="196.0" strokeType="OUTSIDE" strokeWidth="0.0" text="How many meals would you like to generate?" />
+      <Button fx:id="goButton" layoutX="286.0" layoutY="282.0" mnemonicParsing="false" onAction="#goOnAction" style="-fx-background-color: #7b241c;" text="Go!" textFill="#ddd418" />
+      <Button fx:id="BackToMenuButton" layoutX="257.0" layoutY="332.0" mnemonicParsing="false" onAction="#backToMenuOnAction" style="-fx-background-color: #7b241c;" text="Back To Menu" textFill="#ddd418" />
+      <Label fx:id="invalidSelection" alignment="CENTER" layoutX="106.0" layoutY="158.0" prefHeight="17.0" prefWidth="360.0" textFill="RED" />
+   </children>
+</AnchorPane>

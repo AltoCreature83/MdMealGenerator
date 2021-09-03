@@ -1,0 +1,35 @@
+Bear,1401 Governers Pl,19701
+Claymont,2702 Philadelphia Pike,19703-2512
+Glasgow,2351 S College Ave,19702
+Harrington,S Dupont Hwy,19952,16758
+Milford,653 N Dupont Hwy,19963-1001
+Camden,263 Walmart Drive,19934
+Georgetown,20817 Dupont Blvd,19947
+Rehoboth Beach,18878 Costal Hwy,19971
+Seaford,300 N Dual Hwy,19973
+Smyrna,333 N Dupont Hwy,19977
+Delmar,38667 Sussex Hwy,19940
+Bethany Beach,Ushy 1 & Addy Rd,19930
+Stanton,1790 W Newport,19804
+Bridgeville,18733 Sussex Hwy,19933
+Dover,1704 E Lebanon Rd,19901-5845
+Dover,915 S Dupont Hwy,19901-4419
+Dover,1788n Dupont Hwy,19901
+Dover,1424 Forrest Ave,19901-3315
+Dover,879 N Dupont Hwy,19901-2000
+Millsboro,24943 John J Williams Hwy,19966
+Millsboro,30255 Commerce Dr,19966
+Selbyville,36218 Lighthouse Rd,19975
+Selbyville,38215 Dupont Blvd,19975
+Wilmington,4111 N Market St,19802-2221
+Wilmington,2507 Concord Pike,19803-5002
+Wilmington,3318 Kirkwood Hwy,19808-6132
+Wilmington,4625 Kirkwood Hwy,19808-5005
+Wilmington,700 West 4th Street,19801
+Wilmington,101 New Rd,19805-4117
+New Castle,700 N Dupont Hwy,19720
+New Castle,3010 New Castle Ave,19720
+New Castle,101 S Dupont Hwy,19720
+Newark,4160 Ogletown Staton Road,19713
+Newark,374 E Main St,19711-7149
+Newark,815 S College Avenue,19713-4001

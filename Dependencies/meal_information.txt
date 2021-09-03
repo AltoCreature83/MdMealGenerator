@@ -1,0 +1,194 @@
+ID
+1
+Name
+Big Mac
+Price
+$9.47
+Ingredients
+Beef Patties, Lettuce, Onion, Pickle, Cheese, Buns, Big Mac Sauce
+Calories
+1080
+Type
+Dinner
+
+ID
+2
+Name
+Cheeseburger
+Price
+$6.71
+Ingredients
+Beef Patty, Cheese, Pickles, Ketchup, Mustard, Onion, Buns
+Calories
+830
+Type
+Dinner
+
+ID
+3
+Name
+Quarter Pounder with Cheese
+Price
+$9.47
+Ingredients
+Beef Patty, Cheese, Pickles, Ketchup, Mustard, Onion, Buns
+Calories
+1050
+Type
+Dinner
+
+ID
+4
+Name
+Double Quarter Pounder With Cheese
+Price
+$10.67
+Ingredients
+Beef Patties, Cheese, Pickles, Ketchup, Mustard, Onion, Buns
+Calories
+1270
+Type
+Dinner
+
+ID
+5
+Name
+Buttermilk Crispy Chicken Sandwich
+Price
+$10.43
+Ingredients
+Chicken Patty, Lettuce, Tomato, Mayonnaise, Buns
+Calories
+1130
+Type
+Dinner
+
+ID
+6
+Name
+10pc McNuggets
+Price
+$8.63
+Ingredients
+Chicken
+Calories
+950
+Type
+Dinner
+
+ID
+7
+Name
+Filet-O-Fish
+Price
+$8.63
+Ingredients
+Fish Patty, Cheese, Tartar Sauce, Buns
+Calories
+870
+Type
+Dinner
+
+ID
+8
+Name
+Egg McMuffin
+Price
+$7.67
+Ingredients
+Egg, Ham, Cheese, Muffin
+Calories
+450
+Type
+Breakfast
+
+ID
+9
+Name
+Sausage Egg McMuffin
+Price
+$5.03
+Ingredients
+Sausage, Egg, Cheese, Muffin
+Calories
+620
+Type
+Breakfast
+
+ID
+10
+Name
+Sausage Egg Biscuit
+Price
+$7.67
+Ingredients
+Sausage, Egg, Biscuit
+Calories
+670
+Type
+Breakfast
+
+ID
+11
+Name
+Bacon, Egg, and Cheese Biscuit
+Price
+$7.79
+Ingredients
+Bacon, Egg, Cheese, Biscuit
+Calories
+600
+Type
+Breakfast
+
+ID
+12
+Name
+Bacon, Egg, and Cheese McGriddle
+Price
+$8.03
+Ingredients
+Bacon, Egg, Cheese, McGriddle Buns
+Calories
+570
+Type
+Breakfast
+
+ID
+13
+Name
+Sausage, Egg, and Cheese McGriddle
+Price
+$7.79
+Ingredients
+Sausage, Egg, Cheese, McGriddle Buns
+Calories
+690
+Type
+Breakfast
+
+ID
+14
+Name
+Sausage McGriddle
+Price
+$4.54
+Ingredients
+Sausage, McGriddle Buns
+Calories
+570
+Type
+Breakfast
+
+ID
+15
+Name
+Sausage Burrito
+Price
+$5.51
+Ingredients
+Egg, Pork, Tomatoes, Onion, Cheese, Tortilla
+Calories
+450
+Type
+Breakfast
